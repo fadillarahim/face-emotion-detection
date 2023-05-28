@@ -9,5 +9,5 @@ Face emotion detection adalah project machine learning yang bertujuan untuk memb
 - sad
 - surprise
 
-Preview Output:
+Preview Output: <br>
 ![WhatsApp Image 2023-05-27 at 22 09 50](https://github.com/fadillarahim/face-emotion-detection/assets/96507343/7b5df211-d734-4e44-bc91-ea6d7f8236ce)
